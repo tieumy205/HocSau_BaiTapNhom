@@ -1,0 +1,13 @@
+{
+  "input_dim": 336,
+  "hidden_dims": [
+    256,
+    128,
+    64
+  ],
+  "dropout": 0.2,
+  "feature_engineering": true,
+  "k": "all",
+  "random_state": 42,
+  "best_valid_rmse_log": 0.166674216417342
+}
